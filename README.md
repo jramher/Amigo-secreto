@@ -1,6 +1,6 @@
-<h1 align="center"> Juego: Amigo secreto </h1>
+<h1 align="center">*Challenge*</h1>
 
-**Proyecto: Juego el amigo secreto**
+**Proyecto: Juego amigo secreto**
   
 - ¿ En qué consiste ?
   
