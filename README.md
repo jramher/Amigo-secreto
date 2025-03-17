@@ -1,6 +1,6 @@
 <h1 align="center"> Juego: Amigo secreto </h1>
 
-- Proyecto: Juego el amigo secreto
+**Proyecto: Juego el amigo secreto**
   
 - ¿ En qué consiste ?
   
@@ -8,4 +8,10 @@ Esta App, consiste en permitir ingresar nombres en una lista, para luego, donde 
 
 - Para este proyecto, se puso a prueba los conceptos adquiridos en el curso: *Lógica de programación: sumérgete en la programación con JavaScript*.
 - Se aplicaron: Funciones y listas.
+
+![Funciones aplicadas en el proyecto](images/codigo.png)
   
+*Mejoras*
+- Hacerlo responsive para que pueda ser utilizado en dispositivos móviles.
+- Colocar condicionales para que el usuario sólo pueda agregar palabras sin números y sin signos.
+- Hacer modificaciones en el aspecto para darle una dinámica y lograr mayor atractivo en el entorno visual a través de código css.
