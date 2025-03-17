@@ -12,6 +12,6 @@ Esta App, consiste en permitir ingresar nombres en una lista, para luego, donde 
 ![Funciones aplicadas en el proyecto](imagenes/codigo.png)
   
 *Mejoras*
-- Hacerlo responsive para que pueda ser utilizado en dispositivos móviles. 📱:
+- Hacerlo responsive para que pueda ser utilizado en dispositivos móviles. 📱
 - Colocar condicionales para que el usuario sólo pueda agregar palabras sin números y sin signos. 💻
 - Hacer modificaciones en el aspecto para darle una dinámica y lograr mayor atractivo en el entorno visual a través de código css <span style='font-size:100px;'>&#127912;</span>
