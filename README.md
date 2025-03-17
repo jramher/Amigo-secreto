@@ -1,4 +1,6 @@
-<h1 align="center">*Challenge*</h1>
+<p style="color: blue;">Este texto es de color azul</p>
+
+<h1 align="center">Challenge</h1>
 
 **Proyecto: Juego amigo secreto**
   
