@@ -1,8 +1,13 @@
 <h1 align="center"> Juego: Amigo secreto </h1>
 
 - Juego: EL amigo secreto
+- 
+- ¿ En qué consiste ?
+  
+Esta App, consiste en permitir ingresar nombres, en una lista para luego, donde los datos ingresados se mostrarán en una lista visible en la página, cuando se vaya a sortear para saber quien es el amigo secreto, se debe dar clic en el botón "Sortear Amigo" y este seleccionará de forma aleatoria uno de los nombre ingresados, mostrando el resultado en pantalla de quien es el amigo secreto.
 
-- Este proyecto consiste en implementar los conceptos adquiridos en logica de programación basado en: JS y HTML.
-- Funciones, listas.
+- Para este proyecto, se puso a prueba, los conceptos adquiridos en el curso: Lógica de programación: sumérgete en la programación con JavaScript.
+- Se aplicaron: Funciones y listas.
+  
 https://github.com/jramher/Amigo-secreto/blob/main/Evidencia2.png
  
