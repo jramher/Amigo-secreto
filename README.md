@@ -9,5 +9,3 @@ Esta App, consiste en permitir ingresar nombres en una lista, para luego, donde 
 - Para este proyecto, se puso a prueba, los conceptos adquiridos en el curso: Lógica de programación: sumérgete en la programación con JavaScript.
 - Se aplicaron: Funciones y listas.
   
-https://github.com/jramher/Amigo-secreto/blob/main/Evidencia2.png
- 
