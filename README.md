@@ -9,7 +9,7 @@ Esta App, consiste en permitir ingresar nombres en una lista, para luego, donde 
 - Para este proyecto, se puso a prueba los conceptos adquiridos en el curso: *Lógica de programación: sumérgete en la programación con JavaScript*.
 - Se aplicaron: Funciones y listas.
 
-![Funciones aplicadas en el proyecto](images/codigo.png)
+![Funciones aplicadas en el proyecto](imagenes/codigo.png)
   
 *Mejoras*
 - Hacerlo responsive para que pueda ser utilizado en dispositivos móviles.
