@@ -3,3 +3,4 @@
 - Juego: EL amigo secreto
 
 - Este proyecto consiste en implementar los conceptos adquiridos en logica de programación basado en: JS, HTML, CSS. 
+![Uploading imagen.png…]()
